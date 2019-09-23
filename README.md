@@ -1,6 +1,6 @@
 # Breakout Space Revolution
 
-A remake of the iconic breakout
+A remake of the iconic breakout.
 It is implemented using Lua (Programming Language) and Love2d (Framework).
 
 It uses the classic breakout formula for the game logic while powerups,
