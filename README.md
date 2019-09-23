@@ -3,7 +3,7 @@
 A remake of the iconic breakout.
 It is implemented using Lua (Programming Language) and Love2d (Framework).
 
-It uses the classic breakout formula for the game logic while powerups,
+It uses the classic breakout formula for the game logic meanwhile powerups,
 player health, particle systems, and persistent data saving(to keep track of highscores) are some additions to the game play.
 
 Other implementations include procedural generation of brick patterns for every new level,
